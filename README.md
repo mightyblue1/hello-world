@@ -1,2 +1,2 @@
-# hello-world
+# helloWorld - for github
 Git hub trail
