@@ -1,3 +1,3 @@
-# helloWorld on github
+# helloWorld - for github
 Git hub trail
 Testing GITHUB branching
